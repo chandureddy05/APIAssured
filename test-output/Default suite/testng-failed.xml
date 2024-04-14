@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Day8_StudentApi.copy.UpdateUser">
+        <methods>
+          <include name="updateUser1" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Day8_StudentApi.copy.UpdateUser -->
+      <class name="Day8_StudentApi.copy.DeleteUser">
+        <methods>
+          <include name="daleteUser1" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Day8_StudentApi.copy.DeleteUser -->
+      <class name="Day8_StudentApi.copy.GetUser">
+        <methods>
+          <include name="GetUser1" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Day8_StudentApi.copy.GetUser -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

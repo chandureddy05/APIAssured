@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2388" started-at="2024-04-13T11:22:30Z" finished-at="2024-04-13T11:22:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2388" started-at="2024-04-13T11:22:30Z" finished-at="2024-04-13T11:22:32Z">
+      <class name="Day8_StudentApi.copy.UpdateUser">
+        <test-method status="PASS" signature="updateUser1(org.testng.ITestContext)[pri:0, instance:Day8_StudentApi.copy.UpdateUser@6093dd95]" name="updateUser1" duration-ms="48" started-at="2024-04-13T16:52:32Z" finished-at="2024-04-13T16:52:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4b4523f8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser1 -->
+      </class> <!-- Day8_StudentApi.copy.UpdateUser -->
+      <class name="Day8_StudentApi.copy.DeleteUser">
+        <test-method status="PASS" signature="daleteUser1(org.testng.ITestContext)[pri:0, instance:Day8_StudentApi.copy.DeleteUser@5622fdf]" name="daleteUser1" duration-ms="23" started-at="2024-04-13T16:52:32Z" finished-at="2024-04-13T16:52:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4b4523f8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- daleteUser1 -->
+      </class> <!-- Day8_StudentApi.copy.DeleteUser -->
+      <class name="Day8_StudentApi.copy.CreateUser">
+        <test-method status="PASS" signature="CreateUser1(org.testng.ITestContext)[pri:0, instance:Day8_StudentApi.copy.CreateUser@685cb137]" name="CreateUser1" duration-ms="2161" started-at="2024-04-13T16:52:30Z" finished-at="2024-04-13T16:52:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4b4523f8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUser1 -->
+      </class> <!-- Day8_StudentApi.copy.CreateUser -->
+      <class name="Day8_StudentApi.copy.GetUser">
+        <test-method status="PASS" signature="GetUser1(org.testng.ITestContext)[pri:0, instance:Day8_StudentApi.copy.GetUser@6d4b1c02]" name="GetUser1" duration-ms="125" started-at="2024-04-13T16:52:32Z" finished-at="2024-04-13T16:52:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4b4523f8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUser1 -->
+      </class> <!-- Day8_StudentApi.copy.GetUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
